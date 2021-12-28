@@ -1,7 +1,7 @@
 # AWS MSK Kafka Cluster Terraform module
 
 Terraform module which creates AWS MSK (Managed Streaming for Kafka) resources.
-
+additional information may be added in this repo in the future.
 ## Usage
 
 See [`examples`](./examples) directory for working examples to reference:
